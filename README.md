@@ -1,2 +1,2 @@
 # open-homes-threshold
-Application used to Open Homes to plan out how many refugees they can support at any given at time and the impact it will have on their workload in the future
+Application used by Open Homes to determine how many refugees they can support at any given time. Also helps determine the impact new refugees will have on their workload in the future.
